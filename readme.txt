@@ -20,7 +20,7 @@ Luno collects user data—such as HWID, username, operating system, machine name
 
 Support:
 For help or questions, join our Discord server.
-Discord Server Invitation: https://discord.gg/lunorbx
+Discord Server Invitation: https://discord.gg/getluno
 
 Disclaimer:
 This software is provided “as is” without warranty of any kind. Use at your own risk.
