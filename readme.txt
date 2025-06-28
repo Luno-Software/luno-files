@@ -22,6 +22,8 @@ Important:
 Use Luno responsibly and in accordance with Roblox’s terms of service.  
 The developers are not responsible for any misuse or violations of platform rules.
 
+Luno requires administrator permissions to function properly. This is solely to allow certain necessary system configurations, such as adding the Luno directory to Windows Defender exclusions. No other elevated actions are performed.
+
 Support:  
 For help or questions, join our Discord server.  
 Discord Server Invitation: https://discord.gg/getluno
